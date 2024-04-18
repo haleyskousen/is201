@@ -1,0 +1,47 @@
+body{
+    font-family: 'Times New Roman', Times, serif !important;
+    color: darkslategray;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif !important; 
+}
+.site-heading-upper{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.site-heading-lower{
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+.section-heading-upper{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h1{
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.section-heading-lower{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+header{
+    font-family:'Times New Roman', Times, serif !important;
+}
+
+.mb-3{
+    font-family: 'Times New Roman', Times, serif;
+    color: gray !important
+}
+.notyellow{
+    color: black !important;
+
+}
+
+
+
+.intro-text{
+    box-shadow: 5px 5px 10 px rgba(0, 0, 0, 0.5);
+}
